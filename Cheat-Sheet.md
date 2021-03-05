@@ -30,3 +30,8 @@ Erstellt von [Benneth Gripp](https://github.com/1JustBen5) am 05.03.2021
 ```
 git status 
 ```
+
+**Eine Datei, so wie sie aktuell aussieht, zu der nächsten Datenübertragung (stage) hinzufügen**
+```
+git add [file]
+```
