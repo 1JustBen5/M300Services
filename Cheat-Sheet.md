@@ -1,5 +1,5 @@
 # Git CheatSheet
-Erstellt von [Benneth Gripp](https://github.com/JustBen) am 05.03.2021
+Erstellt von [Benneth Gripp](https://github.com/1JustBen5) am 05.03.2021
 
 ---
 
