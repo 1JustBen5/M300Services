@@ -19,6 +19,6 @@ Erstellt von [Benneth Gripp](https://github.com/1JustBen5) am 05.03.2021
 
 # Git Stage & Snapshot Befehle
 **Geänderte Dateien im Arbeitsverzeichnis anzeigen, die für die nächste Datenübergabe bereitgestellt werden**
-
-
- `git status`  
+```
+git status 
+```
