@@ -35,3 +35,17 @@ git status
 ```
 git add [file]
 ```
+
+**Löscht die gestageden änderungen wieder**
+```
+git reset [file]
+```
+**Unterschied dessen, was sich verändert, aber nicht staged ist**
+```
+git diff
+```
+
+**Unterschied zwischen gestaged, aber noch nicht committed wurde**
+```
+git diff --staged
+```
